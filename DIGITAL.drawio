@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Página-1" id="Q214W3AI7iTcaZ7Y8SIr">
+    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-18" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AUTOATENDIMENTO" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-34" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ESCOLHA DOS PRODUTOS" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-16" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CLIENTE" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-19" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gapaS8tNwU7kpl1mmYB6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LEITURA DO CODIGO DE BARRAS" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-27" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FORMA DE PAGAMENTO" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-28" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DEBITO(DESCONTO DE 10%)/CREDITO/PIX" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-21" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VALOR TOTAL DO(S) PRODUTO(S) COM BASE NO PESO" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FINALIZAÇÃO DA COMPRA" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-32" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gapaS8tNwU7kpl1mmYB6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PREÇO FINAL" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-26" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DIGITALIZAÇÃO DO PRODUTO BASEADO NO PESO E TIPO DE DOCE" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-31" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="(OPCIONAL) OPÇÃO DE COMPRAR SACOLA" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-35" edge="1" parent="1" source="gapaS8tNwU7kpl1mmYB6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gapaS8tNwU7kpl1mmYB6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gapaS8tNwU7kpl1mmYB6-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PESAGEM DOS PRODUTOS" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
